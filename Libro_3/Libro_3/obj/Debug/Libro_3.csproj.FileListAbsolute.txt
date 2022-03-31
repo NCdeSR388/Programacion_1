@@ -1,0 +1,7 @@
+C:\Users\Shinespark\programacion_1\Libro_3\Libro_3\bin\Debug\Libro_3.exe.config
+C:\Users\Shinespark\programacion_1\Libro_3\Libro_3\bin\Debug\Libro_3.exe
+C:\Users\Shinespark\programacion_1\Libro_3\Libro_3\bin\Debug\Libro_3.pdb
+C:\Users\Shinespark\programacion_1\Libro_3\Libro_3\obj\Debug\Libro_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shinespark\programacion_1\Libro_3\Libro_3\obj\Debug\Libro_3.csproj.CoreCompileInputs.cache
+C:\Users\Shinespark\programacion_1\Libro_3\Libro_3\obj\Debug\Libro_3.exe
+C:\Users\Shinespark\programacion_1\Libro_3\Libro_3\obj\Debug\Libro_3.pdb
